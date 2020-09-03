@@ -131,7 +131,6 @@
 ## My Activities:
 
 | BLOGS |
-| :--- | :--- |
 | [Vue Express Node Mysql (Venomy) to Docker](https://medium.com/@brudex/vue-express-node-mysql-venomy-to-docker-8b4c525a9682) |  
 
 
