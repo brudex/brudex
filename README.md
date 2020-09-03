@@ -132,13 +132,9 @@
 
 | BLOGS |
 | :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
-| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
+| [Vue Express Node Mysql (Venomy) to Docker](https://medium.com/@brudex/vue-express-node-mysql-venomy-to-docker-8b4c525a9682) |  
 
- 
 
- 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> Say hi to me on <a href = "https://www.linkedin.com/in/penroseakoto/">LinkedIn</a> and I will be happy to chat :)</em>
 
 ---
