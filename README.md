@@ -3,7 +3,7 @@
 
 * I am [Penrose aka brudex](https://www.linkedin.com/in/penroseakoto/) Systems Design and DevOps enthusiastic:.
 
-* I am a Full Stack and Devops Developer at [Zenith Bank](https://www.ibank.zenithbank.com.gh)
+* I am a CTO at Plendify(https://www.plendify.com)
 
 * I have done multiple projects ranging from the field of Devops, Backend to Cloud Computing and Automation :file_cabinet: .
 
