@@ -3,8 +3,6 @@
 
 * I am [Penrose aka brudex](https://www.linkedin.com/in/penroseakoto/) Systems Design and DevOps enthusiastic:.
 
-* I am a CTO at Plendify(https://www.plendify.com)
-
 * I have done multiple projects ranging from the field of Devops, Backend to Cloud Computing and Automation :file_cabinet: .
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
