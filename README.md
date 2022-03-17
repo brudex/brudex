@@ -39,6 +39,11 @@
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
+       </td>
+       <td width="20%" align="center">
+        <span>Php</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
     </tr>
   </tbody>
 </table>
