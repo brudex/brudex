@@ -1,7 +1,7 @@
 <h1 align="center"> Hi There 👋 </h1>
 
 
-* I am [Penrose aka brudex](https://www.linkedin.com/in/penroseakoto/) Systems Design and DevOps enthusiastic:.
+* I am [brudex](https://www.linkedin.com/in/penroseakoto/) Systems Design and DevOps enthusiastic:.
 
 * I have done multiple projects ranging from the field of Devops, Backend to Cloud Computing and Automation :file_cabinet: .
 
